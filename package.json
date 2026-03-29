@@ -1,0 +1,9 @@
+{
+  "name": "markekingcom-lead-proxy",
+  "version": "1.0.0",
+  "description": "MARKEKINGCOM — Lead proxy: website form → FunnelUp CRM",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
